@@ -1,0 +1,15 @@
+/.idea/
+/graphslim.egg-info/
+*.log
+logs/
+log/
+*.out
+checkpoints/*
+!checkpoints/evolve_dataset/
+sfgc_buffer/
+geom_buffer/
+graphslim/requirements*
+*.npy
+*.sh
+!run*_evolve.sh
+__pycache__/
